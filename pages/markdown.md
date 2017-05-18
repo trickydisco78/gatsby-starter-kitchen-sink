@@ -7,7 +7,7 @@ Markdown is pretty cool if you ask me.
 ## You can have lists
 
 ### Numbered
-1. me first!
+1. me first! and me
 2. I'm second!
 3. third :(
 
